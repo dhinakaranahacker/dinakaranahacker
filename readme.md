@@ -1,10 +1,25 @@
-<img src="https://github.com/dhinakaranahacker/dinakaranahacker/blob/main/banner.png" alt="banner">
-# **Hi :wave:, I'm Dinakaran**
+<img src="banner.png">
 
-<p style="text-align:center">A passionate Cybersecurity Enthusiast from India</p>
-Connect with me 
-<p align="left"><a href="https://www.linkedin.com/in/dinakaran-a-34174b238/"><img src="https://img.shields.io/badge/:linkedin/follow/dinakaran-a-34174b238?logo=linkedin&style=for-the-badge" alt="static badge"></a></p>
-<p align="left"><a href="https://www.github.com/in/dhinakaranahacker/dhinakaranahacker/"><img src="https://img.shields.io/badge/:github/follow/Dhinakaranahacker?logo=github&style=for-the-badge" alt="static badge"></a></p>
+
+
+<h1 align="center">Hi 👋, I'm Dinakaran</h1>
+
+<h3 align="center">A passionate Hacker from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinakaranahacker&label=Profile%20views&color=0e75b6&style=flat" alt="dhinakarana-the-hacker" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhinakaranahacker)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/dhinasam89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthithehacker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinakaran-a-34174b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberspartan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/smart_dhina_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthithehacker" height="30" width="40" /></a>
+
+
+- 🔥 I’m good at developing Front-End
+- I am fascinated and more passionate in Cyber Security/Investigation/Hacking.
+<img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
 
 ### **Programming Languages:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
@@ -22,3 +37,4 @@ Connect with me
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu)](https://skillicons.dev)
 #### **Hardware:**
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
