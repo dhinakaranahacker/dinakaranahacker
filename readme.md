@@ -1,4 +1,4 @@
-<img src="banner.png alt="banner.png" style="align: center">
+<img src="banner.png alt="banner.png" style="justify-content: center">
 
 
 
