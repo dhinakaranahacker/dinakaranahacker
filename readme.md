@@ -2,9 +2,9 @@
 # **Hi :wave:, I'm Dinakaran**
 
 <p style="text-align:center">A passionate Cybersecurity Enthusiast from India</p>
-### Connect with me 
+Connect with me 
 <p align="left"><a href="https://www.linkedin.com/in/dinakaran-a-34174b238/"><img src="https://img.shields.io/badge/:linkedin/follow/dinakaran-a-34174b238?logo=linkedin&style=for-the-badge" alt="static badge"></a></p>
-<p align="left"><a href="https://www.github.com/in/Dhinakaranahacker/"><img src="https://img.shields.io/badge/:github/follow/Dhinakaranahacker?logo=github&style=for-the-badge" alt="static badge"></a></p>
+<p align="left"><a href="https://www.github.com/in/dhinakaranahacker/dhinakaranahacker/"><img src="https://img.shields.io/badge/:github/follow/Dhinakaranahacker?logo=github&style=for-the-badge" alt="static badge"></a></p>
 
 ### **Programming Languages:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
