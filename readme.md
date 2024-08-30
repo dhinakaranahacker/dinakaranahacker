@@ -1,4 +1,4 @@
-
+<img src="https://github.com/dhinakaranahacker/dinakaranahacker/blob/main/banner.png" alt="banner">
 # **Hi :wave:, I'm Dinakaran**
 
 <p style="text-align:center">A passionate Cybersecurity Enthusiast from India</p>
