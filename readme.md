@@ -16,7 +16,6 @@
 <p>- I’m good at developing Front-End</p>
 <p>- I am fascinated and more passionate in Cyber Security/Investigation/Hacking.</p>
 <p>- Working in Cybersecurity projects.</p>
-<p>- As a beginner giving my contribution for developing linux kernel.</p>
 <p>- Read my articles on <a href="https://medium.com/@dhinasamp89">dhinasamp/medium.</a></p>
 <p>- Reach me at <a href="mailto:dhinasamp89@gmail.com">dhinasamp89@gmail.com</a></p>
 
