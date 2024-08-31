@@ -37,21 +37,23 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
-#### **Front-End Web Technologies::**
+
+#### **Front-End Web Technologies:**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-#### **Back-End Web Technologies::**
-[![My Skills](https://skillicons.dev/icons?i=python,expressjs,nodejs)](https://skillicons.dev)
+
 #### **Frameworks:**
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,react)](https://skillicons.dev)
 
 
 #### **Database:**
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+
 #### **Version-control:**
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
 #### **OS:**
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu)](https://skillicons.dev)
+
 #### **Hardware:**
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
